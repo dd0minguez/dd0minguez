@@ -1,4 +1,4 @@
-### Bienvenido a mi perfil 👋
+# Bienvenido a mi perfil 👋
 
 ¡Hola! Soy Denis Domínguez, un entusiasta estudiante de desarrollo de aplicaciones multiplataforma en el Colegio CIDE. Actualmente, estoy inmerso en un programa de Formación Profesional de Grado Superior, tras haber completado con éxito mi formación en Sistemas Microinformáticos y Redes Locales a nivel de Grado Medio.
 
