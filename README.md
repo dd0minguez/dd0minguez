@@ -4,18 +4,18 @@
 
 ## Acerca de mí 🚀
 
-🎓 Actualmente estudiando Desarrollo de Aplicaciones Multiplataforma en el Colegio CIDE.
-💻 Poseo conocimientos en Sistemas Microinformáticos y Redes Locales a nivel de Grado Medio.
-🌐 Mi objetivo principal es especializarme en el fascinante mundo de la programación, con un enfoque particular en el lenguaje Swift.
-🔐 Además, tengo interés en aprender sobre ciberseguridad para fortalecer mis habilidades y contribuir a un entorno más seguro.
+<p>🎓 Actualmente estudiando Desarrollo de Aplicaciones Multiplataforma en el Colegio CIDE.</p>
+<p>💻 Poseo conocimientos en Sistemas Microinformáticos y Redes Locales a nivel de Grado Medio.</p>
+<p>🌐 Mi objetivo principal es especializarme en el fascinante mundo de la programación, con un enfoque particular en el lenguaje Swift.</p>
+<p>🔐 Además, tengo interés en aprender sobre ciberseguridad para fortalecer mis habilidades y contribuir a un entorno más seguro.</p>
 
 ## Habilidades y Metas 🎯
 
 Aunque mi experiencia en el campo de la informática es limitada, mi mentalidad abierta y deseo constante de aprender me convierten en un individuo versátil y dispuesto a enfrentar cualquier desafío que se presente. Mis áreas de interés incluyen:
 
-🖥️ Desarrollo de aplicaciones multiplataforma.
-🚀 Programación en Swift.
-🔒 Ciberseguridad.
+<p>🖥️ Desarrollo de aplicaciones multiplataforma.</p>
+<p>🚀 Programación en Swift.</p>
+<p>🔒 Ciberseguridad.</p>
 
 ## ¡Conéctate! 🌐
 
